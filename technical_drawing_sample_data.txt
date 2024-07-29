@@ -1,0 +1,13 @@
+Line 0: Start=(420, 390), End=(219, 390), Type=drawing
+Line 1: Start=(219, 390), End=(219, 265), Type=drawing
+Line 2: Start=(219, 265), End=(420, 265), Type=drawing
+Line 3: Start=(420, 265), End=(420, 390), Type=drawing
+Line 4: Start=(219, 265), End=(85, 265), Type=drawing
+Line 5: Start=(85, 265), End=(85, 589), Type=drawing
+Line 6: Start=(85, 589), End=(219, 589), Type=drawing
+Line 7: Start=(219, 589), End=(219, 265), Type=drawing
+Line 8: Start=(219.0, 290.0), End=(420.0, 290.0), Type=measurement
+Line 9: Start=(244.0, 589.0), End=(244.0, 265.0), Type=measurement
+Line 10: Start=(110.0, 265.0), End=(110.0, 589.0), Type=measurement
+Line 11: Start=(110.0, 265.0), End=(110.0, 589.0), Type=measurement
+Line 12: Start=(244.0, 390.0), End=(244.0, 265.0), Type=measurement
